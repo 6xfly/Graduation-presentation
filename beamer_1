@@ -1,0 +1,303 @@
+\documentclass{beamer}%[aspectratio=169]{beamer}
+\usepackage{ctex,amsmath,hyperref,graphics}
+\usepackage{caption}
+\usepackage[T1]{fontenc}
+\usepackage{fontawesome5}
+\usetheme{Berkeley}
+\usecolortheme{seahorse}
+\setbeamertemplate{caption}[numbered]
+\setbeamerfont{footnote}{size=\tiny}
+\setbeamertemplate{navigation symbols}{}
+\setbeamertemplate{footline}{%
+	\leavevmode%
+	\hbox{%
+		\begin{beamercolorbox}[wd=.333333\paperwidth,ht=2.25ex,dp=1ex,center]{author in head/foot}%
+			\usebeamerfont{author in head/foot}\insertshortauthor
+		\end{beamercolorbox}%
+		\begin{beamercolorbox}[wd=.333333\paperwidth,ht=2.25ex,dp=1ex,center]{title in head/foot}%
+			\usebeamerfont{title in head/foot}\insertshorttitle
+		\end{beamercolorbox}%
+		\begin{beamercolorbox}[wd=.333333\paperwidth,ht=2.25ex,dp=1ex,right]{date in head/foot}%
+			\usebeamerfont{date in head/foot}\insertshortdate{}\hspace*{2em}
+			\insertframenumber{} / \inserttotalframenumber\hspace*{2ex}
+	\end{beamercolorbox}}%
+	\vskip0pt%
+}
+\usefonttheme{professionalfonts}
+\useinnertheme{rectangles}
+\title[毕业答辩]{\LARGE xxxxxxxxxxxxxxxxxxxxx研究}
+\author[Stu:Einstein\\ Tutor:Maxwell]{\large 姓名：xx\\
+	学号：111111111\\班级：应用物理学x班 \\指导老师：xx}
+\institute[]{	\includegraphics[scale=0.18]{logo_xpu} }
+\date{2022年6月22日}
+%\date{\today}
+\begin{document}
+	\begin{frame}
+		\maketitle
+	\end{frame}
+\section{绪论}
+\subsection{问题的提出与研究意义}
+\begin{frame}{问题的提出}
+	\framesubtitle{古代的炼金术}
+	\begin{exampleblock}{尚书·洪范}
+		\centering
+	五行：一曰水，二曰火，三曰木，四曰金，五曰土
+	\end{exampleblock}
+    \begin{figure}[hp]
+    	\centering
+    \includegraphics[scale=0.33]{wuxing_1}
+    \includegraphics[scale=0.25]{wuxing}
+    \caption{古代哲学中的五行}
+    \end{figure}
+    \pause
+    \begin{center}
+    	 xxxxxxxxxxxxxxxxx 
+    \end{center}  
+\end{frame}
+%\subsubsection{}
+\begin{frame}{问题的提出}
+	\framesubtitle{从xxxxx到xxxxx}
+	\centering
+    物体由一种状态变化到另一种状态的过程称之为xx
+	\begin{alertblock}{xxxx}
+		\begin{center}
+			xxxx，xxxxxxxxxx。
+		\end{center}
+	\end{alertblock}
+    \pause
+    \begin{block}{xxxxx}
+    	\begin{center}
+    		$ T = 0 $或接近$ T=0 $时,xxxxxx。
+    	\end{center}
+    \end{block}
+\end{frame}
+\begin{frame}
+	\frametitle{xxxxxx研究意义}
+	\framesubtitle{xxxxx问题}
+	xxxxxxx无法通过实验实现,但是在xxxxxxx附近，有一个相当大的区域可以观察到xxxxxx。
+		\begin{figure}
+			\includegraphics[scale=0.15]{T-J}
+			\includegraphics[scale=0.12]{figure_0}
+		\caption{xxxxxxxxx相图，xxxxxxxx临界区域	\footnote{Matthias Vojta.Quantum phase transitions.Rep. Prog. Phys. 66, 2069 (2003)}}
+		\end{figure}	
+	\pause
+   xxxxxx引起了极大的关注，因为它们与许多实验问题相关!
+\end{frame}
+\begin{frame}{xxxxxxxx研究意义}
+	\framesubtitle{一些例子}
+	\centering
+	\begin{itemize}
+	\item	xxxxxxxxxxxx\footnote{ D. Belitz and T. R. Kirkpatrick.The Anderson-Mott transition.Rev. Mod. Phys. 66, 261.}\\
+	\item	xxxxxxxxx\\
+	\item	……
+	\end{itemize}
+\end{frame}
+\subsection{研究现状}
+\begin{frame}{研究现状}
+	\framesubtitle{其他xxxxx的研究}
+   \begin{figure}[hp]
+   	\includegraphics[scale=0.18]{figure_1}
+   	\caption {xxxxxxxxx\footnote{G. De Chiara et al .Phys. Rev. Lett. 109, 237208}}
+   	\includegraphics[scale=0.18]{figure_2}
+   	\caption{xxxxxxxxxxxxxxxxxx\footnote{Chen AM, Liu DC, Duan J, Wang HL, Xiang CH, Su YH.Acta Phys. Sin. 2020, 69(9): 090302}}
+   \end{figure}
+\end{frame}
+\subsection{研究目的及内容}
+\begin{frame}{研究目的及内容}
+	\framesubtitle{xxxxxxxxxxxxxx}
+    \begin{block}{主要内容}
+    	xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+    	xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+    		xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx	xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+    \end{block}
+\end{frame}
+\section{xxxxx的基本概念}
+ \subsection{xxxxxxx}
+	\begin{frame}{xxxxxxx的基本概念}
+		\framesubtitle{xxxxxxxxx}
+			xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx	xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx	xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\footnote{G. Vidal et al.Entanglement in Quantum Critical Phenomena.Phys. Rev. Lett. 90, 227902}。
+	  \begin{alertblock}{xxxxxxxxxxxxxxxxxxx}
+	  	\begin{itemize}
+	  		\item xxxxxxx
+	  		\pause
+	  		\item xxxxxxx
+	  	\end{itemize}
+	  \end{alertblock}
+	\end{frame}
+  \subsection{xxxx}
+   \begin{frame}{xxxxxx}
+   	\framesubtitle{xxxxx}
+   	\begin{alertblock}{xxxxxx}
+   				xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+   				xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx	xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+   					xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+   	\end{alertblock}
+     \begin{figure}[hp]
+     	\includegraphics[scale=0.2]{figure_3}
+     	\caption{xxxxxxx}
+     \end{figure}
+   \end{frame}
+\section{模型}
+  \begin{frame}{研究模型}
+    \framesubtitle{xxxxxxxxxx}
+    \begin{block}{xxxxxxxxx}
+    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+    \end{block}
+    \pause
+    \begin{alertblock}{模型}
+    			xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+    			xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+    			xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\\
+    		\centering
+    		$H=J\sum^{\infty}_{i=1}S^{x}_{i}S^{x}_{i+1}+hS^{z}_{i}S^{z}_{i+1}$
+    \end{alertblock}
+  \end{frame}
+\section{数值分析}
+\subsection{张量网络算法}
+  \begin{frame}{数值分析}
+  	\framesubtitle{张量网络}
+  	体系的波函数可以由相互连接的张量网络来描述，直观地说，这就像LEGO积木一样，而纠缠在张量碎片之间起着“胶水”的作用。换句话说，张量是波函数的DNA。
+  	\begin{figure}[hp]
+  	\includegraphics[scale=0.32]{tn_1}
+  	\caption{(a)DNA (b)张量网络\footnote{Román Orús.A practical introduction to tensor networks:Matrix product states and projected entangled pair states.Annals of Physics Volume 349}}
+  	\end{figure}
+  \end{frame}
+  \begin{frame}{数值分析}
+  	\framesubtitle{虚时间演化}
+  	xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx。
+  	\begin{equation*}
+  	|E_{0}\rangle=	\displaystyle\lim_{\tau \rightarrow + \infty} \dfrac{e^{-\tau H}|\varPsi(0)\rangle}{\sqrt{\langle \varPsi(\tau)|\varPsi(\tau)\rangle}} ,\lvert \varPsi(\tau)\rangle=e^{-\tau H}\lvert \varPsi(0)\rangle
+  	\end{equation*}
+  	\begin{figure}[hp]
+  		\includegraphics[scale=0.15]{tn_2}
+  		\caption{xxxxxxxxx\footnote{Jacob C Bridgeman.Hand-waving and Interpretive Dance:An Introductory Course on Tensor Networks.arXiv:1603.03039}}
+  	\end{figure}
+  \end{frame}
+  \subsection{xxxxxxx}
+  \begin{frame}{数值分析}
+  	\framesubtitle{xxxxxxx}
+  	\begin{columns}
+  		\column{0.5\textwidth}
+  		\begin{figure}[hp]
+  			\includegraphics[scale=0.18]{an1}
+  			\caption{xxxxxxxxxxxxxxxxxx}
+  		\end{figure}
+  	    \begin{itemize}
+  	    	\item 	$ h_{c}^{D=0} =1.001$
+  	    	\item   $ h_{c}^{D=0.5} =1.415$
+  	    	\item   $ h_{c}^{D=1} =2.237$
+  	    \end{itemize}
+  		\column{0.5\textwidth}
+  		\pause
+  		\begin{figure}[hp]
+  			\includegraphics[scale=0.095]{an2a}\\
+  			\includegraphics[scale=0.095]{an2b}
+  			\caption{xxxxxxxxxxxxxxxxxx}
+  		\end{figure}
+  	\end{columns} 
+  \end{frame}
+  \begin{frame}{数值分析}
+   \framesubtitle{xxxxxxxxxx}
+   \begin{figure}[hp]
+   	 \includegraphics[scale=0.2]{an3}
+   	 \caption{xxxxxxxxxx}
+   \end{figure}
+   \begin{center}
+    xxxxxxxxxx
+   \end{center}
+  \end{frame}
+ \subsection{xxxxxxx}
+ \begin{frame}{xxxxxx}
+ 	\framesubtitle{xxxxx}
+ 	\begin{columns}
+ 		\column{0.65\textwidth}
+ 		\begin{figure}[hp]
+ 			\includegraphics[scale=0.115]{an4a}
+ 			\includegraphics[scale=0.11]{an4b}
+ 			\caption{xxxxxxxxxxxxxxxxxxxx}
+ 		\end{figure}
+ 		 \column{0.35\textwidth}
+ 		 \begin{itemize}
+ 		 	\item xxxxxxxxxx
+ 		 	\item xxxxxxxx
+ 		 	\item xxxxxxxxxx
+ 		 \end{itemize}
+ 	\end{columns}
+ \end{frame}
+ \begin{frame}{数值分析}
+ 	\framesubtitle{xxxxxx}
+ 		\begin{columns}
+ 		\column{0.65\textwidth}
+ 		\begin{figure}[hp]
+ 			\includegraphics[scale=0.115]{an5a}
+ 			\includegraphics[scale=0.11]{an5b}
+ 			\caption{xxxxxxxxxxxxxx}
+ 		\end{figure}
+ 		\column{0.35\textwidth}
+ 		\begin{center}
+ 				\begin{itemize}
+ 				\item xxxxxxx
+ 				\item  xxxxxxxxx
+ 			    \end{itemize}
+ 		\end{center}
+ 	\end{columns}
+ \end{frame}
+  \begin{frame}{数值分析}
+  	\framesubtitle{xxxxx}
+  		\begin{columns}
+  		\column{0.5\textwidth}
+  		\begin{figure}[hp]
+  				\includegraphics[scale=0.11]{an_6}
+  				\caption{xxxxxxxx}
+  		\end{figure}
+  		\begin{itemize}
+  			\item xxxxxx
+  			\item xxxxxxx 
+  			\item xxxxxxx 
+  		\end{itemize}
+  		\column{0.5\textwidth}
+  		\begin{figure}[hp]
+  			\includegraphics[scale=0.11]{an7a}
+  			\includegraphics[scale=0.10]{an7b}
+  			\caption{xxxxxxxxx}
+  		\end{figure}
+     	\end{columns} 
+  \end{frame}
+\section{结论与展望}
+ \subsection{结论}
+ \begin{frame}{结论与展望}
+ 	\framesubtitle{xxxxxx}
+ 	\begin{columns}
+ 				\column{0.5\textwidth}
+ 			\includegraphics[scale=0.115]{table0}
+ 			\column{0.5\textwidth}
+ 			\vspace{0.3cm}
+ 			\includegraphics[scale=0.125]{phase}
+ 	\end{columns}
+    \begin{figure}[hp]
+    	 \begin{center}
+    		\includegraphics[scale=0.11]{result}
+    	\end{center}
+    \caption{xxxxxxxxxxx	}
+    \end{figure}
+ \end{frame}
+ \subsection{展望}
+  \begin{frame}{展望}
+  	\begin{alertblock}{一些看法}
+  		xxxxxxxxxxxxxxxxxxxxxxxxxxx 
+  		xxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxx 
+  		xxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxx 
+  		xxxxxxxxxxxxxxxxxxxxxxxxxxx 
+  	\end{alertblock}
+  \end{frame}
+\section{致谢}
+	\begin{frame}{致谢}
+		\framesubtitle{Thanks!}
+		\begin{center}
+			{\huge\normalfont Thanks!}\\
+		{\huge 感谢各位老师的耐心！}
+		\end{center}
+	\end{frame}
+\end{document}
